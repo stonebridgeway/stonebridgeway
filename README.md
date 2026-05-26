@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=58A6FF&width=500&lines=Python+Developer;Building+Telegram+Bots+%26+APIs;Learning+ML+and+Automation)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=58A6FF&width=500&lines=Python+Developer;Telegram+Bot+Builder;Learning+ML+%26+Automation)
 
 ## Привет, я Александр 👋
 
@@ -30,7 +30,7 @@ Python-разработчик. Строю Telegram-боты, изучаю ML и 
 
 ### GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=stonebridgeway&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=stonebridgeway&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
 
 ![Streak](https://streak-stats.demolab.com?user=stonebridgeway&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
