@@ -50,7 +50,7 @@
 |--------|----------|------|
 | **[HabitTrackerBot](https://github.com/stonebridgeway/HabbitTrackerBot)** | telegram-бот для трекинга привычек · напоминания · прогресс · admin | aiogram · fastapi · postgresql · redis · celery |
 | **[Nexler_Bot](https://github.com/stonebridgeway/Nexler_Bot)** | ai учебный ассистент · fallback-цепочка 25+ llm · история диалога | aiogram · openrouter · sqlite |
-| kings-barbershop | лендинг барбершопа · портфолио с фильтрами · живой статус работы | html · css · gsap |
+| **[kings-barbershop](https://github.com/stonebridgeway/kings-barbershop)** | лендинг барбершопа · портфолио с фильтрами · живой статус работы | html · css · gsap |
 ---
 
 ### roadmap
