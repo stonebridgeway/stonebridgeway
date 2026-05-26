@@ -1,10 +1,18 @@
 <div align="center">
 
-![banner](./banner.svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=200&section=header&text=Александр%20Пивоваров&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=python%20·%20bots%20·%20automation%20·%20ml&descAlignY=60&descSize=15&descColor=666666)
+
+</div>
+
+<div align="center">
+
+![typing](https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=20&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=500&lines=python+developer;building+telegram+bots;learning+ml+%26+automation;less+noise+more+progress)
 
 </div>
 
 <br>
+
+![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)
 
 ```
 > whoami
@@ -15,12 +23,9 @@
 > status
   building: AI Telegram Bot SaaS (Gemini · payments · queues)
   learning: django · ml basics · automation
-  working:  python developer
 ```
 
-<br>
-
----
+![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)
 
 ### стек
 
@@ -37,9 +42,7 @@
 
 </div>
 
-<br>
-
----
+![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)
 
 ### проекты
 
@@ -48,9 +51,7 @@
 | **[HabitTrackerBot](https://github.com/stonebridgeway/HabbitTrackerBot)** | telegram-бот для трекинга привычек · напоминания · прогресс · admin | aiogram · fastapi · postgresql · redis · celery |
 | **[Nexler_Bot](https://github.com/stonebridgeway/Nexler_Bot)** | ai учебный ассистент · fallback-цепочка 25+ llm · история диалога | aiogram · openrouter · sqlite |
 
-<br>
-
----
+![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)
 
 ### roadmap
 
@@ -63,9 +64,7 @@
 [ ] ML / AI проект        первый публичный ml-pipeline
 ```
 
-<br>
-
----
+![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)
 
 ### stats
 
@@ -75,17 +74,20 @@
 
 </div>
 
-<br>
-
----
+![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)
 
 ### контакт
 
+<div align="center">
+
 [![tg](https://img.shields.io/badge/@stonebridgeway-000?style=flat-square&logo=telegram&logoColor=fff)](https://t.me/stonebridgeway)
 [![mail](https://img.shields.io/badge/email-000?style=flat-square&logo=gmail&logoColor=fff)](mailto:sachapivorwargpt@gmail.com)
+[![github](https://img.shields.io/badge/github-000?style=flat-square&logo=github&logoColor=fff)](https://github.com/stonebridgeway)
 
-<br>
+</div>
 
 <div align="center">
-<sub>— less noise, more progress —</sub>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=100&section=footer)
+
 </div>
