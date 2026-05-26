@@ -38,5 +38,5 @@ Python-разработчик. Строю Telegram-боты, изучаю ML и 
 
 ### Контакт
 
-[![Telegram](https://img.shields.io/badge/@sanek67676767-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sanek67676767)
-[![Email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sachapivorwargpt@gmail.com)
+[![Telegram](https://img.shields.io/badge/@sanek67676767-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/stonebridgeway)
+[![Email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sachapivorwar@gmail.com)
