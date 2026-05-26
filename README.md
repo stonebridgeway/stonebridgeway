@@ -1,62 +1,91 @@
-<!--  stonebridgeway/stonebridgeway — profile README  -->
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=58A6FF&width=500&lines=Python+Developer;Telegram+Bot+Builder;Learning+ML+%26+Automation)
+![banner](./banner.svg)
 
----
+</div>
 
-### // о себе
+<br>
 
-| | |
-|---|---|
-| 📍 **Локация** | Россия |
-| 🎓 **Учёба** | КГТУ · КИС + Yandex.Practicum |
-| 💼 **Работа** | Фриланс |
-| 🎯 **Цель** | Junior Python Dev · ML · Automation |
-| 🤖 **Интересы** | Telegram-боты, автоматизация, AI workflows |
-| ⚡ **Сейчас строю** | AI Telegram Bot SaaS с Gemini |
+```
+> whoami
+  александр пивоваров
+  python developer · bot builder · ml learner
+  russia
 
----
+> status
+  building: AI Telegram Bot SaaS (Gemini · payments · queues)
+  learning: django · ml basics · automation
+  working:  тьютор @ KiberOne
+```
 
-### // стек
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+<br>
 
 ---
 
-### // проекты
+### стек
 
-| Проект | Описание | Стек |
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi&logoColor=fff)
+![aiogram](https://img.shields.io/badge/aiogram-000?style=flat-square&logo=telegram&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=fff)
+![Redis](https://img.shields.io/badge/Redis-000?style=flat-square&logo=redis&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=fff)
+![Celery](https://img.shields.io/badge/Celery-000?style=flat-square&logo=celery&logoColor=fff)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000?style=flat-square&logo=sqlalchemy&logoColor=fff)
+
+</div>
+
+<br>
+
+---
+
+### проекты
+
+| проект | описание | стек |
 |--------|----------|------|
-| [HabitTrackerBot](https://github.com/stonebridgeway/HabbitTrackerBot) | Telegram-бот для трекинга привычек с напоминаниями и admin-панелью | aiogram · FastAPI · PostgreSQL · Redis · Celery |
-| [Nexler_Bot](https://github.com/stonebridgeway/Nexler_Bot) | AI учебный ассистент с fallback-цепочкой из 25+ LLM-моделей | aiogram · OpenRouter · SQLite |
+| **[HabitTrackerBot](https://github.com/stonebridgeway/HabbitTrackerBot)** | telegram-бот для трекинга привычек · напоминания · прогресс · admin | aiogram · fastapi · postgresql · redis · celery |
+| **[Nexler_Bot](https://github.com/stonebridgeway/Nexler_Bot)** | ai учебный ассистент · fallback-цепочка 25+ llm · история диалога | aiogram · openrouter · sqlite |
+
+<br>
 
 ---
 
-### // roadmap
+### roadmap
 
 ```
-✅  HabitTrackerBot       — production-style Telegram bot
-✅  Nexler_Bot            — AI ассистент с LLM fallback
-🔄  AI Telegram Bot SaaS — Gemini · payments · admin panel
+[✓] HabitTrackerBot       production-style telegram bot · полный стек
+[✓] Nexler_Bot            ai ассистент с llm fallback
+[→] Django Blogicum       yandex.practicum · sprint 4 · pytest
+[→] AI Telegram Bot SaaS  gemini · payments · admin panel · queues
+[ ] GitHub Actions CI     автотесты на push
+[ ] ML / AI проект        первый публичный ml-pipeline
 ```
 
----
-
-### // stats
-
-![Streak](https://streak-stats.demolab.com?user=stonebridgeway&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+<br>
 
 ---
 
-### // контакт
+### stats
 
-[![Telegram](https://img.shields.io/badge/@sanek67676767-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sanek67676767)
-[![Email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sachapivorwargpt@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/stonebridgeway)
+<div align="center">
+
+![Streak](https://streak-stats.demolab.com?user=stonebridgeway&theme=dark&hide_border=true&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=666666&dates=444444&stroke=222222)
+
+</div>
+
+<br>
+
+---
+
+### контакт
+
+[![tg](https://img.shields.io/badge/@sanek67676767-000?style=flat-square&logo=telegram&logoColor=fff)](https://t.me/sanek67676767)
+[![mail](https://img.shields.io/badge/email-000?style=flat-square&logo=gmail&logoColor=fff)](mailto:sachapivorwargpt@gmail.com)
+
+<br>
+
+<div align="center">
+<sub>— less noise, more progress —</sub>
+</div>
