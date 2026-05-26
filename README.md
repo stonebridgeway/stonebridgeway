@@ -44,10 +44,7 @@
 ```
 ✅  HabitTrackerBot       — production-style Telegram bot
 ✅  Nexler_Bot            — AI ассистент с LLM fallback
-🔄  Django Blogicum       — Yandex.Practicum · sprint 4
 🔄  AI Telegram Bot SaaS — Gemini · payments · admin panel
-⬜  GitHub Actions CI     — автотесты на push
-🔮  ML / AI проект        — первый публичный ML-pipeline
 ```
 
 ---
