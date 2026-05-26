@@ -15,7 +15,7 @@
 > status
   building: AI Telegram Bot SaaS (Gemini · payments · queues)
   learning: django · ml basics · automation
-  working:  тьютор @ KiberOne
+  working:  python developer
 ```
 
 <br>
@@ -81,7 +81,7 @@
 
 ### контакт
 
-[![tg](https://img.shields.io/badge/@sanek67676767-000?style=flat-square&logo=telegram&logoColor=fff)](https://t.me/sanek67676767)
+[![tg](https://img.shields.io/badge/@stonebridgeway-000?style=flat-square&logo=telegram&logoColor=fff)](https://t.me/stonebridgeway)
 [![mail](https://img.shields.io/badge/email-000?style=flat-square&logo=gmail&logoColor=fff)](mailto:sachapivorwargpt@gmail.com)
 
 <br>
