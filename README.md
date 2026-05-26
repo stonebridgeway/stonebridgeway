@@ -10,7 +10,7 @@
 |---|---|
 | 📍 **Локация** | Россия |
 | 🎓 **Учёба** | КГТУ · КИС + Yandex.Practicum |
-| 💼 **Работа** | Тьютор в KiberOne |
+| 💼 **Работа** | Фриланс |
 | 🎯 **Цель** | Junior Python Dev · ML · Automation |
 | 🤖 **Интересы** | Telegram-боты, автоматизация, AI workflows |
 | ⚡ **Сейчас строю** | AI Telegram Bot SaaS с Gemini |
