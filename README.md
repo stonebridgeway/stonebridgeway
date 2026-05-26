@@ -1,18 +1,18 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=200&section=header&text=Александр%20Пивоваров&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=python%20·%20bots%20·%20automation%20·%20ml&descAlignY=60&descSize=15&descColor=666666)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Александр%20Пивоваров&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=python%20·%20bots%20·%20automation%20·%20ml&descAlignY=60&descSize=15&descColor=555555)
 
 </div>
 
 <div align="center">
 
-![typing](https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=20&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=500&lines=python+developer;building+telegram+bots;learning+ml+%26+automation;less+noise+more+progress)
+![typing](https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=20&pause=1500&color=FFFFFF&background=00000000&center=true&vCenter=true&width=500&lines=python+developer;building+telegram+bots;learning+ml+%26+automation;less+noise+more+progress)
 
 </div>
 
 <br>
 
-![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)
+---
 
 ```
 > whoami
@@ -25,7 +25,7 @@
   learning: django · ml basics · automation
 ```
 
-![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)
+---
 
 ### стек
 
@@ -42,7 +42,7 @@
 
 </div>
 
-![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)
+---
 
 ### проекты
 
@@ -51,7 +51,7 @@
 | **[HabitTrackerBot](https://github.com/stonebridgeway/HabbitTrackerBot)** | telegram-бот для трекинга привычек · напоминания · прогресс · admin | aiogram · fastapi · postgresql · redis · celery |
 | **[Nexler_Bot](https://github.com/stonebridgeway/Nexler_Bot)** | ai учебный ассистент · fallback-цепочка 25+ llm · история диалога | aiogram · openrouter · sqlite |
 
-![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)
+---
 
 ### roadmap
 
@@ -64,7 +64,7 @@
 [ ] ML / AI проект        первый публичный ml-pipeline
 ```
 
-![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)
+---
 
 ### stats
 
@@ -74,7 +74,7 @@
 
 </div>
 
-![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)
+---
 
 ### контакт
 
@@ -86,8 +86,14 @@
 
 </div>
 
+<br>
+
+<div align="center">
+<sub>— less noise, more progress —</sub>
+</div>
+
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer)
 
 </div>
